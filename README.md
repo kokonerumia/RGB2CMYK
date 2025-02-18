@@ -59,14 +59,6 @@ python color_converter_gui.py
 - `rgb_to_cmyk.py`: カラー変換のコアロジック
 - `README.md`: ドキュメント
 
-## ライセンス
-
-MIT License
-
-## 作者
-
-Masanao Imai
-
 ## 参考文献
 
 - [Japan Color 2001 Coated](https://www.japancolor.jp/standard.html)
